@@ -33,7 +33,7 @@ let
     xdg-utils
     iana-etc
     # Steam Play / Proton
-    python3
+    python3Full
     # Steam VR
     procps
     usbutils
